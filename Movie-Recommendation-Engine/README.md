@@ -1,4 +1,4 @@
-# Multi-Feature Movie Recommender System 🎬
+# Multi-Feature Movie Recommender System 
 
 A Streamlit-based web application that recommends movies using Natural Language Processing (NLP) and Cosine Similarity. This project demonstrates data engineering with **Pandas** and mathematical vectorization with **Scikit-Learn**.
 
