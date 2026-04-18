@@ -1,4 +1,4 @@
-# California House Price Prediction Engine 🏡
+# California House Price Prediction Engine 
 
 This project implements a Supervised Learning pipeline to predict median house values in California. It showcases a full Machine Learning workflow from **Exploratory Data Analysis (EDA)** to **Hyperparameter Tuning**.
 
