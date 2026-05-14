@@ -1,0 +1,15 @@
+*.pkl
+*.csv
+data/
+.venv/
+# Ignore python artifacts and virtual environments
+.venv/
+__pycache__/
+
+# Ignore large model files 
+*.pkl
+artifacts/
+
+# Ignore OS specific files
+.DS_Store
+Thumbs.db
